@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeiyafAhmed
 - 👀 I’m interested in A.I.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning BSc(AI)
 - 📫 How to reach me seiyafahmed.ofc@gmail.com or seiyafahmed@outlook.com
 
 <!---
